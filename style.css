@@ -1,0 +1,37 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header styling */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    border-bottom: 5px solid #ff9800;
+}
+
+/* Paragraph styling */
+.paragraph {
+    color: #555;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+/* Image styling */
+.image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 3px solid #ff9800;
+    margin: 20px;
+    padding: 5px;
+}
